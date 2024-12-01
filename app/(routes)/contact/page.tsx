@@ -29,9 +29,9 @@ export default function ContactPage() {
             <h2 className="text-2xl font-bold mb-6">Get in Touch</h2>
             <div className="space-y-6">
               {[
-                { icon: Mail, text: 'hello@donvitocodes.com' },
-                { icon: Phone, text: '+1 (555) 123-4567' },
-                { icon: MapPin, text: 'San Francisco, CA' },
+                { icon: Mail, text: 'jnlandu00@gmail.com' },
+                { icon: Phone, text: '+221 (77) 200 35 38' },
+                { icon: MapPin, text: 'Mbour, Senegal' },
               ].map((item) => (
                 <div key={item.text} className="flex items-center space-x-4">
                   <item.icon className="w-6 h-6 text-[#4B6BFB]" />
