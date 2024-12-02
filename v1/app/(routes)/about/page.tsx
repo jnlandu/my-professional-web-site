@@ -10,7 +10,7 @@ export default function AboutPage() {
           <div>
             <h2 className="text-2xl font-bold mb-4">Pioneering AI Solutions</h2>
             <p className="text-gray-300 mb-6">
-              At DonvitoCodes, we're passionate about leveraging artificial intelligence
+              At Okapi AI, we're passionate about leveraging artificial intelligence
               to solve complex business challenges. Our team of experts combines deep
               technical knowledge with practical business experience to deliver
               solutions that drive real results.

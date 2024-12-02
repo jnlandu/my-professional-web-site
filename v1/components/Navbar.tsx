@@ -23,7 +23,10 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-full">
           <Link href="/" className="flex items-center space-x-2">
             <Brain className="w-8 h-8 text-[#4B6BFB]" />
-            <span className="text-xl font-bold">DonvitoCodes</span>
+            <span className="text-xl font-bold">
+               <span className="text-white">Okapi</span>
+               <span className="text-[#4B6BFB]">AI</span>
+               </span>
           </Link>
 
           {/* Desktop Navigation */}

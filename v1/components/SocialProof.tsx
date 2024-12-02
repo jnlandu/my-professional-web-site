@@ -10,7 +10,7 @@ const testimonials = [
     name: 'Sarah Johnson',
     role: 'CTO at TechCorp',
     image: 'https://picsum.photos/400/300',
-    content: 'The AI solutions provided by DonvitoCodes have transformed our business operations. The results exceeded our expectations.',
+    content: 'The AI solutions provided by OkapiAI have transformed our business operations. The results exceeded our expectations.',
     rating: 5,
   },
   {
