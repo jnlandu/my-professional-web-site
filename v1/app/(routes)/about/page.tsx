@@ -1,4 +1,5 @@
 import { Briefcase, Users, Target } from 'lucide-react';
+import Image from 'next/image';
 
 export default function AboutPage() {
   return (
@@ -17,7 +18,7 @@ export default function AboutPage() {
             </p>
           </div>
           <div className="relative">
-            <img
+            <Image
               src="https://picsum.photos/800/600"
               alt="Team collaboration"
               className="rounded-lg shadow-xl"
